@@ -10,7 +10,7 @@ module.exports = {
   },
   server: {
     host: 'localhost',
-    port: 8080,
+    port: 5000,
   },
   limits: {
     /* Image files size in bytes. Below this value the image file will be served as DataURL (inline base64). */
